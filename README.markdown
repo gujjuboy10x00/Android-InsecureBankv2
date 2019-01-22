@@ -1,4 +1,4 @@
-InsecureBankv2 Readme
+InsecureBankv2 Readme html
 ==========
 
 [![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.blackhat.com/eu-15/arsenal.html/)
